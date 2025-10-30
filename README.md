@@ -1,5 +1,5 @@
 # Bappa
-Techlead-1st py pro
+Techlead-1st py pro - templates(main)
 # 🐘 Ganapati Festival Website - README
 
 ![Ganesha Chaturthi](https://img.shields.io/badge/Festival-Ganesh_Chaturthi-orange)
